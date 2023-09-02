@@ -1,0 +1,16 @@
+.card1{
+    width:80px;
+    height: 100px;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 8px;
+    margin: 18px;
+    text-align: center;
+    
+}
+.icons{
+    align-items: center;
+    color: yellow;
+    font-size:x-large;
+  
+}

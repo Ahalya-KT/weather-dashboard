@@ -1,0 +1,53 @@
+.cards{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2px;
+    padding: 30px;
+    
+}
+.heading{
+    padding-left: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.second-heading{
+    display: flex;
+    gap: 15px;
+    padding-right: 25px;
+    
+}
+
+.second-sub1{
+    background-color: black;
+    color: white;
+    width: 35px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.second-sub2{
+    background-color:rgb(208, 205, 205);
+    color: black;
+    width: 35px;
+    text-align: center;
+    border-radius: 50%;
+}
+span{
+    color: #acacac;
+    
+}
+.card2{
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 30px;
+    display: flex;
+   
+   
+}
+.heading2{
+    padding-left: 25px;
+}
+/* .first-heading h2{
+    text-decoration: underline;
+} */

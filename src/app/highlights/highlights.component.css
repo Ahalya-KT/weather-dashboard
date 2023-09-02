@@ -1,0 +1,14 @@
+.card3{
+    width:230px;
+    height: 100px;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 8px;
+    margin: 18px;
+    /* text-align: center; */
+    border-radius: 5%;
+}
+.card3 h1{
+    color: rgb(187, 181, 181);
+    font-size: 15px;
+}
