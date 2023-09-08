@@ -10,5 +10,6 @@ export class HighlightsComponent {
   @Input()  title:string=""
   @Input()  content:string=""
   @Input()  content2:string=""
+  @Input() icon:string=""
       
 }

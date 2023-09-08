@@ -1,9 +1,9 @@
 .card3{
-    width:230px;
+    width:200px;
     height: 100px;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
-    border-radius: 8px;
+    
     margin: 18px;
     /* text-align: center; */
     border-radius: 5%;
